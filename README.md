@@ -1,4 +1,4 @@
-# tugas-praktikum-3
+# tugas-praktikum-4
 1. Lihat peralatan I/O, character device, yang ada pada sistem komputer.
 <img width="849" height="499" alt="image" src="https://github.com/user-attachments/assets/f192f9bb-7e0d-48b1-90ce-1b06743d4a72" />
 
